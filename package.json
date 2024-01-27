@@ -2,6 +2,8 @@
   "name": "sparkle",
   "displayName": "Sparkle",
   "description": "Sparkle Theme - Multicolor Theme",
+  "repository": "https://github.com/PATILMANISH/sparkle.git",
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
@@ -9,6 +11,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
